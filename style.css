@@ -1,0 +1,15 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  background-color: #f2f8ed;
+  font-family: "Poppins", sans-serif;
+}
+h1 {
+  font-size: 64px;
+  color: #48a300;
+  text-align: center;
+}
+h1 span {
+  color: #61481c;
+}
